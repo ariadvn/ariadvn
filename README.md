@@ -1,7 +1,5 @@
-## Hi there 👋
-
 # 💫 About Me:
-I'm a student of life ready to learn new things at any time.<br>Programming was a passion of mine even before I knew how to copy and paste.<br>I'm currently studying to be a full-stack developer and am in the process of learning some cybersecurity.<br><br>Thank you for your time.
+Hi! I'm a student of life ready to learn new things at any time.<br>Programming was a passion of mine even before I knew how to copy and paste.<br>I'm currently studying to be a full-stack developer and am in the process of learning some cybersecurity.<br><br>Thank you for your time.
 
 
 # 💻 Tech Stack:
@@ -13,3 +11,6 @@ I'm a student of life ready to learn new things at any time.<br>Programming was 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ariadvn&icon=5&color=1)](https://visitcount.itsvg.in)
+#Team
+Turing/Pioneers/aria-davani
+<img src="https://github.com/ArminKardan/utrialv2/blob/master/turing.png?raw=true"/>
